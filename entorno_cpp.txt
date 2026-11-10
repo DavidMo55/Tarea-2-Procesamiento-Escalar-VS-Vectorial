@@ -1,0 +1,3 @@
+Compilador: Apple LLVM 21.0.0 (clang-2100.3.34.2)
+Eigen: 3.5.0
+Configuración utilizada: -std=c++17 -O3 -DNDEBUG; sin -ffast-math
